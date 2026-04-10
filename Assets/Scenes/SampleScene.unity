@@ -1183,7 +1183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a598dfe77f356b4fa0957d8e1e08846, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  textComponent: {fileID: 0}
+  textComponent: {fileID: 32693021}
   lines:
   - "Ol\xE1 jogador"
   - Se mexa com WASD
